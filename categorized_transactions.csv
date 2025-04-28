@@ -1,0 +1,807 @@
+Date,Description,Amount,Transaction Type,Category,Account Name,SpendingCategory
+01-01-2018,Amazon,11.11,0,Shopping,Platinum Card,Shopping
+01-02-2018,Mortgage Payment,1247.44,0,Mortgage & Rent,Checking,Other
+01-02-2018,Thai Restaurant,24.22,0,Restaurants,Silver Card,Other
+01-03-2018,Credit Card Payment,2298.09,1,Credit Card Payment,Platinum Card,Other
+01-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+01-05-2018,American Tavern,25.85,0,Restaurants,Silver Card,Other
+01-06-2018,Hardware Store,18.45,0,Home Improvement,Silver Card,Other
+01-08-2018,Gas Company,45.0,0,Utilities,Checking,Other
+01-08-2018,Hardware Store,15.38,0,Home Improvement,Silver Card,Other
+01-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+01-10-2018,Phone Company,89.46,0,Mobile Phone,Checking,Other
+01-11-2018,Shell,34.87,0,Gas & Fuel,Platinum Card,Gas
+01-11-2018,Grocery Store,43.54,0,Groceries,Platinum Card,Other
+01-12-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+01-13-2018,Pizza Place,32.91,0,Fast Food,Platinum Card,Other
+01-13-2018,Amazon,39.05,0,Shopping,Platinum Card,Shopping
+01-15-2018,Grocery Store,44.19,0,Groceries,Silver Card,Other
+01-15-2018,American Tavern,64.11,0,Restaurants,Silver Card,Other
+01-16-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+01-16-2018,Power Company,60.0,0,Utilities,Checking,Other
+01-19-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+01-20-2018,Amazon,50.21,0,Shopping,Platinum Card,Shopping
+01-22-2018,Credit Card Payment,554.99,1,Credit Card Payment,Platinum Card,Other
+01-22-2018,Credit Card Payment,309.81,1,Credit Card Payment,Silver Card,Other
+01-22-2018,Credit Card Payment,554.99,0,Credit Card Payment,Checking,Other
+01-22-2018,Hardware Store,17.38,0,Home Improvement,Silver Card,Other
+01-23-2018,Credit Card Payment,309.81,0,Credit Card Payment,Checking,Other
+01-24-2018,Starbucks,3.0,0,Coffee Shops,Platinum Card,Restaurants
+01-25-2018,Internet Service Provider,69.99,0,Internet,Checking,Other
+01-29-2018,Shell,30.42,0,Gas & Fuel,Silver Card,Gas
+01-29-2018,Thai Restaurant,25.0,0,Restaurants,Silver Card,Other
+01-29-2018,Brunch Restaurant,17.62,0,Restaurants,Platinum Card,Other
+02-01-2018,Grocery Store,27.79,0,Groceries,Platinum Card,Other
+02-01-2018,Amazon,11.11,0,Shopping,Platinum Card,Shopping
+02-02-2018,Mortgage Payment,1247.44,0,Mortgage & Rent,Checking,Other
+02-02-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+02-03-2018,Japanese Restaurant,57.02,0,Restaurants,Platinum Card,Other
+02-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+02-05-2018,Credit Card Payment,145.14,1,Credit Card Payment,Platinum Card,Other
+02-06-2018,Credit Card Payment,154.13,1,Credit Card Payment,Silver Card,Other
+02-07-2018,Credit Card Payment,154.13,0,Credit Card Payment,Checking,Other
+02-07-2018,Gas Company,65.0,0,Utilities,Checking,Other
+02-09-2018,Barbershop,30.0,0,Haircut,Platinum Card,Other
+02-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+02-10-2018,Bojangles,10.66,0,Fast Food,Platinum Card,Other
+02-11-2018,Fancy Restaurant,106.8,0,Restaurants,Platinum Card,Other
+02-12-2018,Shell,36.47,0,Gas & Fuel,Silver Card,Gas
+02-12-2018,Phone Company,89.52,0,Mobile Phone,Checking,Other
+02-14-2018,Brewing Company,14.0,0,Alcohol & Bars,Silver Card,Other
+02-15-2018,American Tavern,10.0,0,Restaurants,Platinum Card,Other
+02-15-2018,Power Company,60.0,0,Utilities,Checking,Other
+02-16-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+02-16-2018,Brunch Restaurant,8.0,0,Restaurants,Silver Card,Other
+02-16-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+02-20-2018,Grocery Store,35.95,0,Groceries,Silver Card,Other
+02-20-2018,Mexican Restaurant,23.51,0,Restaurants,Silver Card,Other
+02-21-2018,Starbucks,2.0,0,Coffee Shops,Platinum Card,Restaurants
+02-22-2018,Starbucks,4.0,0,Coffee Shops,Silver Card,Restaurants
+02-26-2018,Credit Card Payment,765.37,1,Credit Card Payment,Platinum Card,Other
+02-26-2018,Credit Card Payment,156.11,1,Credit Card Payment,Silver Card,Other
+02-26-2018,Credit Card Payment,765.37,0,Credit Card Payment,Checking,Other
+02-26-2018,Internet Service Provider,74.99,0,Internet,Checking,Other
+02-26-2018,American Tavern,85.52,0,Restaurants,Silver Card,Other
+02-26-2018,Gas Station,32.21,0,Gas & Fuel,Silver Card,Other
+02-27-2018,Credit Card Payment,156.11,0,Credit Card Payment,Checking,Other
+03-01-2018,Grocery Store,32.07,0,Groceries,Silver Card,Other
+03-01-2018,Amazon,13.13,0,Shopping,Platinum Card,Shopping
+03-02-2018,Mortgage Payment,1247.44,0,Mortgage & Rent,Checking,Other
+03-02-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+03-03-2018,Grocery Store,23.74,0,Groceries,Silver Card,Other
+03-04-2018,Grocery Store,10.69,0,Groceries,Platinum Card,Other
+03-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+03-04-2018,BBQ Restaurant,42.24,0,Restaurants,Platinum Card,Other
+03-05-2018,Starbucks,3.0,0,Coffee Shops,Platinum Card,Restaurants
+03-05-2018,Credit Card Payment,761.59,1,Credit Card Payment,Silver Card,Other
+03-05-2018,Credit Card Payment,761.59,0,Credit Card Payment,Checking,Other
+03-07-2018,Starbucks,3.5,0,Coffee Shops,Platinum Card,Restaurants
+03-08-2018,BP,34.9,0,Gas & Fuel,Platinum Card,Other
+03-08-2018,Gas Company,52.0,0,Utilities,Checking,Other
+03-09-2018,Grocery Store,20.72,0,Groceries,Platinum Card,Other
+03-09-2018,Grocery Store,5.09,0,Groceries,Platinum Card,Other
+03-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+03-12-2018,Grocery Store,19.35,0,Groceries,Platinum Card,Other
+03-12-2018,Phone Company,89.52,0,Mobile Phone,Checking,Other
+03-13-2018,Amazon,45.75,0,Shopping,Platinum Card,Shopping
+03-14-2018,Grocery Store,22.5,0,Groceries,Platinum Card,Other
+03-14-2018,Brunch Restaurant,8.49,0,Restaurants,Platinum Card,Other
+03-15-2018,Starbucks,3.5,0,Coffee Shops,Platinum Card,Restaurants
+03-15-2018,Power Company,60.0,0,Utilities,Checking,Other
+03-16-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+03-17-2018,Brewing Company,19.5,0,Alcohol & Bars,Silver Card,Other
+03-17-2018,Pizza Place,23.34,0,Fast Food,Platinum Card,Other
+03-19-2018,Mediterranean Restaurant,36.48,0,Restaurants,Silver Card,Other
+03-19-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+03-20-2018,Amazon,14.97,0,Shopping,Platinum Card,Shopping
+03-22-2018,BP,30.55,0,Gas & Fuel,Silver Card,Other
+03-23-2018,Credit Card Payment,559.91,1,Credit Card Payment,Platinum Card,Other
+03-23-2018,Credit Card Payment,559.91,0,Credit Card Payment,Checking,Other
+03-23-2018,Grocery Store,11.76,0,Groceries,Silver Card,Other
+03-26-2018,Internet Service Provider,74.99,0,Internet,Checking,Other
+03-28-2018,Grocery Store,16.06,0,Groceries,Silver Card,Other
+03-28-2018,Pizza Place,24.98,0,Restaurants,Silver Card,Other
+03-29-2018,Steakhouse,17.64,0,Restaurants,Silver Card,Other
+03-30-2018,Grocery Store,9.09,0,Groceries,Silver Card,Other
+03-30-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+03-31-2018,Belgian Restaurant,38.32,0,Restaurants,Platinum Card,Other
+03-31-2018,Chili's,24.74,0,Restaurants,Platinum Card,Other
+03-31-2018,Greek Restaurant,41.16,0,Restaurants,Silver Card,Other
+04-01-2018,Grocery Store,80.79,0,Groceries,Platinum Card,Other
+04-01-2018,Brewing Company,59.48,0,Restaurants,Platinum Card,Other
+04-01-2018,Amazon,13.13,0,Shopping,Platinum Card,Shopping
+04-02-2018,Credit Card Payment,817.14,1,Credit Card Payment,Silver Card,Other
+04-02-2018,Credit Card Payment,817.14,0,Credit Card Payment,Checking,Other
+04-02-2018,Grocery Store,82.36,0,Groceries,Platinum Card,Other
+04-02-2018,Hardware Store,13.89,0,Home Improvement,Platinum Card,Other
+04-02-2018,Mortgage Payment,1247.44,0,Mortgage & Rent,Checking,Other
+04-03-2018,Amazon Video,6.41,0,Movies & DVDs,Platinum Card,Shopping
+04-04-2018,Credit Card Payment,363.08,1,Credit Card Payment,Platinum Card,Other
+04-04-2018,Credit Card Payment,363.08,0,Credit Card Payment,Checking,Other
+04-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+04-06-2018,Chevron,4.58,0,Gas & Fuel,Platinum Card,Gas
+04-06-2018,Tiny Deli,9.76,0,Restaurants,Platinum Card,Other
+04-08-2018,Irish Pub,22.0,0,Restaurants,Platinum Card,Other
+04-09-2018,Blue Sky Market,6.48,0,Groceries,Silver Card,Other
+04-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+04-09-2018,Gas Company,30.0,0,Utilities,Checking,Other
+04-11-2018,Phone Company,89.52,0,Mobile Phone,Checking,Other
+04-12-2018,Starbucks,7.0,0,Coffee Shops,Platinum Card,Restaurants
+04-12-2018,Barbershop,30.0,0,Haircut,Platinum Card,Other
+04-13-2018,BP,37.98,0,Gas & Fuel,Platinum Card,Other
+04-13-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+04-13-2018,American Tavern,10.66,0,Restaurants,Platinum Card,Other
+04-14-2018,Hardware Store,11.61,0,Home Improvement,Platinum Card,Other
+04-14-2018,American Tavern,41.0,0,Restaurants,Platinum Card,Other
+04-16-2018,State Farm,75.0,0,Auto Insurance,Checking,Other
+04-16-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+04-18-2018,Power Company,60.0,0,Utilities,Checking,Other
+04-20-2018,Thai Restaurant,24.22,0,Restaurants,Silver Card,Other
+04-21-2018,Grocery Store,4.32,0,Groceries,Silver Card,Other
+04-21-2018,American Tavern,35.15,0,Restaurants,Silver Card,Other
+04-22-2018,Grocery Store,21.32,0,Groceries,Platinum Card,Other
+04-23-2018,Hardware Store,42.7,0,Home Improvement,Silver Card,Other
+04-24-2018,Hardware Store,224.7,0,Home Improvement,Platinum Card,Other
+04-24-2018,Amazon,41.34,0,Shopping,Platinum Card,Shopping
+04-25-2018,Hardware Store,210.79,0,Home Improvement,Silver Card,Other
+04-25-2018,Internet Service Provider,74.99,0,Internet,Checking,Other
+04-26-2018,Credit Card Payment,769.72,1,Credit Card Payment,Silver Card,Other
+04-26-2018,Credit Card Payment,1216.94,1,Credit Card Payment,Platinum Card,Other
+04-26-2018,Credit Card Payment,1216.94,0,Credit Card Payment,Checking,Other
+04-27-2018,Credit Card Payment,769.72,0,Credit Card Payment,Checking,Other
+04-27-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+04-28-2018,Grocery Store,22.98,0,Groceries,Silver Card,Other
+04-29-2018,QuikTrip,39.0,0,Gas & Fuel,Platinum Card,Other
+04-29-2018,Grocery Store,51.05,0,Groceries,Platinum Card,Other
+04-29-2018,Hardware Store,68.47,0,Home Improvement,Platinum Card,Other
+04-30-2018,Grocery Store,5.09,0,Groceries,Platinum Card,Other
+05-01-2018,Amazon,13.13,0,Shopping,Platinum Card,Shopping
+05-02-2018,Mortgage Payment,1247.44,0,Mortgage & Rent,Checking,Other
+05-03-2018,Amazon,49.72,0,Shopping,Platinum Card,Shopping
+05-04-2018,Grocery Store,42.23,0,Groceries,Platinum Card,Other
+05-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+05-05-2018,Bojangles,7.27,0,Fast Food,Platinum Card,Other
+05-05-2018,Pizza Place,20.52,0,Fast Food,Platinum Card,Other
+05-06-2018,Hardware Store,22.37,0,Home Improvement,Platinum Card,Other
+05-06-2018,Amazon,117.69,0,Shopping,Platinum Card,Shopping
+05-09-2018,Credit Card Payment,601.4,1,Credit Card Payment,Platinum Card,Other
+05-09-2018,Credit Card Payment,601.4,0,Credit Card Payment,Checking,Other
+05-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+05-09-2018,Gas Company,30.0,0,Utilities,Checking,Other
+05-10-2018,Phone Company,111.18,0,Mobile Phone,Checking,Other
+05-11-2018,Grocery Store,57.32,0,Groceries,Platinum Card,Other
+05-11-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+05-11-2018,Mike's Construction Co.,8000.0,0,Home Improvement,Checking,Other
+05-12-2018,Liquor Store,27.77,0,Alcohol & Bars,Platinum Card,Other
+05-12-2018,Shell,33.3,0,Gas & Fuel,Platinum Card,Gas
+05-12-2018,Fancy Restaurant,78.0,0,Restaurants,Platinum Card,Other
+05-14-2018,Grocery Store,67.63,0,Groceries,Silver Card,Other
+05-15-2018,Power Company,60.0,0,Utilities,Checking,Other
+05-17-2018,Barbershop,29.0,0,Haircut,Silver Card,Other
+05-17-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+05-18-2018,State Farm,75.0,0,Auto Insurance,Checking,Other
+05-18-2018,Amazon,6.41,0,Shopping,Platinum Card,Shopping
+05-19-2018,Credit Card Payment,207.08,1,Credit Card Payment,Platinum Card,Other
+05-19-2018,Grocery Store,31.0,0,Groceries,Silver Card,Other
+05-19-2018,Greek Restaurant,23.26,0,Restaurants,Silver Card,Other
+05-21-2018,Credit Card Payment,283.07,1,Credit Card Payment,Silver Card,Other
+05-21-2018,Thai Restaurant,26.04,0,Restaurants,Silver Card,Other
+05-21-2018,Amazon,32.5,0,Shopping,Platinum Card,Shopping
+05-22-2018,Credit Card Payment,283.07,0,Credit Card Payment,Checking,Other
+05-24-2018,BP,39.44,0,Gas & Fuel,Silver Card,Other
+05-25-2018,Internet Service Provider,74.99,0,Internet,Checking,Other
+05-25-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+05-28-2018,Movie Theater,9.62,0,Entertainment,Silver Card,Other
+05-28-2018,Grocery Store,91.03,0,Groceries,Silver Card,Other
+05-29-2018,Movie Theater,20.0,0,Movies & DVDs,Silver Card,Other
+05-29-2018,Movie Theater,6.25,0,Movies & DVDs,Silver Card,Other
+06-01-2018,BP,38.63,0,Gas & Fuel,Platinum Card,Other
+06-01-2018,Grocery Store,6.11,0,Groceries,Platinum Card,Other
+06-01-2018,Amazon,13.13,0,Shopping,Platinum Card,Shopping
+06-02-2018,Credit Card Payment,235.18,1,Credit Card Payment,Silver Card,Other
+06-02-2018,Credit Card Payment,466.36,1,Credit Card Payment,Platinum Card,Other
+06-03-2018,Italian Restaurant,65.81,0,Restaurants,Platinum Card,Other
+06-04-2018,Credit Card Payment,235.18,0,Credit Card Payment,Checking,Other
+06-04-2018,Grocery Store,24.12,0,Groceries,Platinum Card,Other
+06-04-2018,Mortgage Payment,1247.44,0,Mortgage & Rent,Checking,Other
+06-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+06-06-2018,Starbucks,4.0,0,Coffee Shops,Platinum Card,Restaurants
+06-08-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+06-08-2018,Gas Company,30.0,0,Utilities,Checking,Other
+06-09-2018,Chick-Fil-A,16.18,0,Fast Food,Platinum Card,Other
+06-09-2018,Grocery Store,9.56,0,Groceries,Platinum Card,Other
+06-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+06-10-2018,Grocery Store,46.01,0,Groceries,Platinum Card,Other
+06-12-2018,Grocery Store,12.55,0,Groceries,Platinum Card,Other
+06-12-2018,Phone Company,89.46,0,Mobile Phone,Checking,Other
+06-14-2018,Credit Card Payment,283.44,1,Credit Card Payment,Platinum Card,Other
+06-14-2018,Credit Card Payment,283.44,0,Credit Card Payment,Checking,Other
+06-14-2018,Grocery Store,7.02,0,Groceries,Platinum Card,Other
+06-15-2018,Power Company,60.0,0,Utilities,Checking,Other
+06-16-2018,Starbucks,3.0,0,Coffee Shops,Platinum Card,Restaurants
+06-16-2018,Pizza Place,22.66,0,Fast Food,Platinum Card,Other
+06-16-2018,Grocery Store,13.9,0,Groceries,Platinum Card,Other
+06-18-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+06-19-2018,Shell,38.52,0,Gas & Fuel,Platinum Card,Gas
+06-19-2018,Grocery Store,2.69,0,Groceries,Platinum Card,Other
+06-20-2018,State Farm,75.0,0,Auto Insurance,Checking,Other
+06-20-2018,Credit Card Payment,89.45,1,Credit Card Payment,Silver Card,Other
+06-20-2018,Barbershop,30.0,0,Haircut,Silver Card,Other
+06-21-2018,Credit Card Payment,89.45,0,Credit Card Payment,Checking,Other
+06-22-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+06-23-2018,Brunch Restaurant,8.5,0,Restaurants,Silver Card,Other
+06-23-2018,Amazon,74.97,0,Shopping,Platinum Card,Shopping
+06-25-2018,Credit Card Payment,942.76,1,Credit Card Payment,Platinum Card,Other
+06-25-2018,Credit Card Payment,942.76,0,Credit Card Payment,Checking,Other
+06-25-2018,Internet Service Provider,74.99,0,Internet,Checking,Other
+06-26-2018,Grocery Store,9.62,0,Groceries,Silver Card,Other
+06-27-2018,Starbucks,3.5,0,Coffee Shops,Silver Card,Restaurants
+06-27-2018,Pizza Place,22.66,0,Fast Food,Platinum Card,Other
+06-28-2018,Grocery Store,7.57,0,Groceries,Silver Card,Other
+07-01-2018,Amazon,13.13,0,Shopping,Platinum Card,Shopping
+07-02-2018,Mortgage Payment,1247.44,0,Mortgage & Rent,Checking,Other
+07-02-2018,Movie Theater,25.0,0,Movies & DVDs,Silver Card,Other
+07-02-2018,American Tavern,36.44,0,Restaurants,Silver Card,Other
+07-04-2018,BP,34.48,0,Gas & Fuel,Silver Card,Other
+07-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+07-05-2018,Grocery Store,44.25,0,Groceries,Silver Card,Other
+07-05-2018,Amazon,212.32,0,Shopping,Platinum Card,Shopping
+07-06-2018,Amazon Video,6.41,0,Movies & DVDs,Platinum Card,Shopping
+07-06-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+07-08-2018,Credit Card Payment,259.87,1,Credit Card Payment,Platinum Card,Other
+07-09-2018,Credit Card Payment,242.16,1,Credit Card Payment,Silver Card,Other
+07-09-2018,Credit Card Payment,259.87,0,Credit Card Payment,Checking,Other
+07-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+07-10-2018,Credit Card Payment,242.16,0,Credit Card Payment,Checking,Other
+07-10-2018,Grocery Store,5.39,0,Groceries,Silver Card,Other
+07-10-2018,Gas Company,30.0,0,Utilities,Checking,Other
+07-11-2018,Phone Company,89.46,0,Mobile Phone,Checking,Other
+07-14-2018,Go Mart,33.51,0,Gas & Fuel,Silver Card,Other
+07-15-2018,Circle K,36.24,0,Gas & Fuel,Platinum Card,Other
+07-17-2018,Wendy's,15.23,0,Fast Food,Silver Card,Other
+07-17-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+07-17-2018,Power Company,60.0,0,Utilities,Checking,Other
+07-18-2018,Irish Restaurant,28.54,0,Alcohol & Bars,Platinum Card,Other
+07-18-2018,State Farm,75.0,0,Auto Insurance,Checking,Other
+07-20-2018,Credit Card Payment,61.43,1,Credit Card Payment,Silver Card,Other
+07-20-2018,Credit Card Payment,102.88,1,Credit Card Payment,Platinum Card,Other
+07-20-2018,Credit Card Payment,102.88,0,Credit Card Payment,Checking,Other
+07-20-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+07-21-2018,Grocery Store,28.93,0,Groceries,Platinum Card,Other
+07-21-2018,Barbershop,30.0,0,Haircut,Platinum Card,Other
+07-23-2018,Credit Card Payment,61.43,0,Credit Card Payment,Checking,Other
+07-23-2018,Starbucks,9.58,0,Fast Food,Platinum Card,Restaurants
+07-24-2018,American Tavern,26.59,0,Restaurants,Platinum Card,Other
+07-25-2018,Internet Service Provider,74.99,0,Internet,Checking,Other
+07-26-2018,Conoco,33.67,0,Gas & Fuel,Silver Card,Other
+07-28-2018,Grocery Store,7.61,0,Groceries,Silver Card,Other
+07-30-2018,American Tavern,34.38,0,Restaurants,Silver Card,Other
+07-31-2018,Brewing Company,6.6,0,Alcohol & Bars,Silver Card,Other
+08-01-2018,Amazon,13.13,0,Shopping,Platinum Card,Shopping
+08-02-2018,Credit Card Payment,816.27,1,Credit Card Payment,Platinum Card,Other
+08-02-2018,Shell,40.44,0,Gas & Fuel,Silver Card,Gas
+08-02-2018,Mortgage Payment,1247.44,0,Mortgage & Rent,Checking,Other
+08-03-2018,Grocery Store,6.27,0,Groceries,Silver Card,Other
+08-03-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+08-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+08-06-2018,Amazon,76.47,0,Shopping,Platinum Card,Shopping
+08-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+08-09-2018,Gas Company,30.0,0,Utilities,Checking,Other
+08-10-2018,Phone Company,89.4,0,Mobile Phone,Checking,Other
+08-11-2018,Chick-Fil-A,13.67,0,Fast Food,Platinum Card,Other
+08-11-2018,Valero,33.66,0,Gas & Fuel,Platinum Card,Other
+08-15-2018,Credit Card Payment,269.56,1,Credit Card Payment,Silver Card,Other
+08-15-2018,Credit Card Payment,159.38,1,Credit Card Payment,Platinum Card,Other
+08-15-2018,Shell,41.07,0,Gas & Fuel,Platinum Card,Gas
+08-15-2018,Grocery Store,5.64,0,Groceries,Platinum Card,Other
+08-15-2018,Power Company,60.0,0,Utilities,Checking,Other
+08-16-2018,Credit Card Payment,269.56,0,Credit Card Payment,Checking,Other
+08-16-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+08-17-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+08-17-2018,Amazon,14.98,0,Shopping,Platinum Card,Shopping
+08-18-2018,Amazon,23.47,0,Shopping,Platinum Card,Shopping
+08-20-2018,State Farm,75.0,0,Auto Insurance,Checking,Other
+08-21-2018,Credit Card Payment,34.18,1,Credit Card Payment,Silver Card,Other
+08-21-2018,Credit Card Payment,99.76,1,Credit Card Payment,Platinum Card,Other
+08-21-2018,Credit Card Payment,99.76,0,Credit Card Payment,Checking,Other
+08-22-2018,Credit Card Payment,34.18,0,Credit Card Payment,Checking,Other
+08-24-2018,American Tavern,42.31,0,Restaurants,Platinum Card,Other
+08-27-2018,Internet Service Provider,74.99,0,Internet,Checking,Other
+08-30-2018,Shell,35.65,0,Gas & Fuel,Platinum Card,Gas
+08-31-2018,Grocery Store,11.64,0,Groceries,Platinum Card,Other
+08-31-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+09-01-2018,Brewing Company,47.4,0,Alcohol & Bars,Platinum Card,Other
+09-01-2018,Amazon,13.13,0,Shopping,Platinum Card,Shopping
+09-02-2018,Amazon,109.83,0,Shopping,Platinum Card,Shopping
+09-04-2018,Credit Card Payment,687.29,1,Credit Card Payment,Platinum Card,Other
+09-04-2018,Credit Card Payment,687.29,0,Credit Card Payment,Checking,Other
+09-04-2018,Mortgage Payment,1247.44,0,Mortgage & Rent,Checking,Other
+09-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+09-07-2018,Gas Company,30.0,0,Utilities,Checking,Other
+09-09-2018,Brewing Company,18.0,0,Alcohol & Bars,Platinum Card,Other
+09-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+09-11-2018,BP,38.86,0,Gas & Fuel,Platinum Card,Other
+09-11-2018,Grocery Store,7.87,0,Groceries,Platinum Card,Other
+09-12-2018,Grocery Store,47.16,0,Groceries,Platinum Card,Other
+09-12-2018,Phone Company,89.4,0,Mobile Phone,Checking,Other
+09-13-2018,Grocery Store,5.64,0,Groceries,Platinum Card,Other
+09-14-2018,Credit Card Payment,134.34,1,Credit Card Payment,Platinum Card,Other
+09-14-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+09-17-2018,Grocery Store,10.17,0,Groceries,Platinum Card,Other
+09-17-2018,Grocery Store,8.8,0,Groceries,Platinum Card,Other
+09-17-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+09-18-2018,Grocery Store,4.32,0,Groceries,Platinum Card,Other
+09-18-2018,Power Company,60.0,0,Utilities,Checking,Other
+09-19-2018,State Farm,75.0,0,Auto Insurance,Checking,Other
+09-19-2018,Barbershop,30.0,0,Haircut,Platinum Card,Other
+09-20-2018,Amazon,47.38,0,Shopping,Platinum Card,Shopping
+09-22-2018,Hardware Store,69.4,0,Home Improvement,Platinum Card,Other
+09-22-2018,Hardware Store,6.83,0,Home Improvement,Platinum Card,Other
+09-25-2018,Internet Service Provider,74.99,0,Internet,Checking,Other
+09-25-2018,Sushi Restaurant,48.64,0,Restaurants,Silver Card,Other
+09-26-2018,Starbucks,5.0,0,Coffee Shops,Platinum Card,Restaurants
+09-26-2018,Exxon,38.0,0,Gas & Fuel,Silver Card,Other
+09-27-2018,Valero,40.71,0,Gas & Fuel,Platinum Card,Other
+09-28-2018,Credit Card Payment,128.12,1,Credit Card Payment,Silver Card,Other
+09-28-2018,Credit Card Payment,284.96,1,Credit Card Payment,Platinum Card,Other
+09-28-2018,Credit Card Payment,284.96,0,Credit Card Payment,Checking,Other
+09-28-2018,Grocery Store,13.36,0,Groceries,Platinum Card,Other
+09-28-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+09-29-2018,Greek Restaurant,23.26,0,Restaurants,Platinum Card,Other
+09-29-2018,German Restaurant,46.7,0,Restaurants,Platinum Card,Other
+10-01-2018,Starbucks,3.0,0,Coffee Shops,Platinum Card,Restaurants
+10-01-2018,Credit Card Payment,128.12,0,Credit Card Payment,Checking,Other
+10-01-2018,Grocery Store,15.66,0,Groceries,Platinum Card,Other
+10-01-2018,Amazon,13.13,0,Shopping,Platinum Card,Shopping
+10-02-2018,Credit Card Payment,124.03,1,Credit Card Payment,Platinum Card,Other
+10-02-2018,Credit Card Payment,124.03,0,Credit Card Payment,Checking,Other
+10-02-2018,Mortgage Payment,1209.18,0,Mortgage & Rent,Checking,Other
+10-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+10-06-2018,American Tavern,27.0,0,Restaurants,Silver Card,Other
+10-08-2018,Shell,38.06,0,Gas & Fuel,Silver Card,Gas
+10-08-2018,Hardware Store,80.65,0,Home Improvement,Silver Card,Other
+10-08-2018,Hardware Store,31.2,0,Home Improvement,Silver Card,Other
+10-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+10-09-2018,Amazon,19.98,0,Shopping,Platinum Card,Shopping
+10-09-2018,Gas Company,30.0,0,Utilities,Checking,Other
+10-10-2018,Grocery Store,53.68,0,Groceries,Silver Card,Other
+10-11-2018,Phone Company,89.4,0,Mobile Phone,Checking,Other
+10-12-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+10-16-2018,Power Company,60.0,0,Utilities,Checking,Other
+10-17-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+10-18-2018,State Farm,75.0,0,Auto Insurance,Checking,Other
+10-18-2018,Grocery Store,33.55,0,Groceries,Platinum Card,Other
+10-18-2018,Hardware Store,45.24,0,Home Improvement,Platinum Card,Other
+10-18-2018,Brunch Restaurant,8.0,0,Restaurants,Platinum Card,Other
+10-21-2018,Credit Card Payment,544.37,1,Credit Card Payment,Platinum Card,Other
+10-22-2018,Credit Card Payment,353.83,1,Credit Card Payment,Silver Card,Other
+10-22-2018,Credit Card Payment,353.83,0,Credit Card Payment,Checking,Other
+10-22-2018,BP,34.66,0,Gas & Fuel,Platinum Card,Other
+10-23-2018,Grocery Store,7.57,0,Groceries,Platinum Card,Other
+10-25-2018,Internet Service Provider,74.99,0,Internet,Checking,Other
+10-25-2018,Amazon,29.98,0,Shopping,Platinum Card,Shopping
+10-26-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+10-27-2018,American Tavern,25.4,0,Restaurants,Silver Card,Other
+10-28-2018,Brewing Company,12.71,0,Alcohol & Bars,Platinum Card,Other
+10-28-2018,Seafood Restaurant,14.75,0,Food & Dining,Platinum Card,Other
+10-28-2018,Grocery Store,92.49,0,Groceries,Platinum Card,Other
+10-28-2018,Italian Restaurant,54.0,0,Restaurants,Platinum Card,Other
+10-31-2018,Grocery Store,5.64,0,Groceries,Platinum Card,Other
+11-01-2018,Amazon,13.13,0,Shopping,Platinum Card,Shopping
+11-02-2018,Credit Card Payment,262.51,1,Credit Card Payment,Platinum Card,Other
+11-02-2018,Credit Card Payment,262.51,0,Credit Card Payment,Checking,Other
+11-02-2018,Mortgage Payment,1209.18,0,Mortgage & Rent,Checking,Other
+11-03-2018,Pizza Place,23.66,0,Fast Food,Platinum Card,Other
+11-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+11-05-2018,Shell,36.51,0,Gas & Fuel,Platinum Card,Gas
+11-06-2018,Amazon,53.95,0,Shopping,Platinum Card,Shopping
+11-06-2018,Gas Company,30.0,0,Utilities,Checking,Other
+11-08-2018,Grocery Store,5.64,0,Groceries,Platinum Card,Other
+11-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+11-09-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+11-10-2018,Brewing Company,27.0,0,Alcohol & Bars,Platinum Card,Other
+11-10-2018,Chick-Fil-A,14.19,0,Fast Food,Platinum Card,Other
+11-10-2018,Food Truck,24.4,0,Groceries,Platinum Card,Other
+11-12-2018,Grocery Store,10.18,0,Groceries,Platinum Card,Other
+11-12-2018,American Tavern,22.33,0,Restaurants,Silver Card,Other
+11-13-2018,Grocery Store,4.8,0,Groceries,Platinum Card,Other
+11-13-2018,Grocery Store,37.43,0,Groceries,Platinum Card,Other
+11-13-2018,Grocery Store,10.15,0,Groceries,Platinum Card,Other
+11-13-2018,Phone Company,89.54,0,Mobile Phone,Checking,Other
+11-14-2018,Power Company,60.0,0,Utilities,Checking,Other
+11-16-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+11-17-2018,Brewing Company,22.8,0,Alcohol & Bars,Platinum Card,Other
+11-17-2018,Hardware Store,15.47,0,Home Improvement,Platinum Card,Other
+11-17-2018,Hardware Store,6.4,0,Home Improvement,Platinum Card,Other
+11-17-2018,Greek Restaurant,23.26,0,Restaurants,Platinum Card,Other
+11-19-2018,Brewing Company,20.0,0,Alcohol & Bars,Silver Card,Other
+11-19-2018,QuikTrip,29.15,0,Gas & Fuel,Silver Card,Other
+11-19-2018,Hardware Store,10.02,0,Home Improvement,Silver Card,Other
+11-20-2018,State Farm,75.0,0,Auto Insurance,Checking,Other
+11-20-2018,Credit Card Payment,421.96,1,Credit Card Payment,Platinum Card,Other
+11-21-2018,Grocery Store,5.64,0,Groceries,Silver Card,Other
+11-21-2018,Hardware Store,37.41,0,Home Improvement,Platinum Card,Other
+11-23-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+11-26-2018,American Tavern,16.8,0,Alcohol & Bars,Silver Card,Other
+11-26-2018,Internet Service Provider,74.99,0,Internet,Checking,Other
+11-27-2018,Movie Theater,17.0,0,Movies & DVDs,Silver Card,Other
+11-27-2018,American Tavern,28.4,0,Restaurants,Silver Card,Other
+11-29-2018,Credit Card Payment,582.99,1,Credit Card Payment,Silver Card,Other
+11-29-2018,Credit Card Payment,751.5,1,Credit Card Payment,Platinum Card,Other
+11-30-2018,Credit Card Payment,582.99,0,Credit Card Payment,Checking,Other
+11-30-2018,Grocery Store,6.27,0,Groceries,Silver Card,Other
+12-01-2018,Grocery Store,5.64,0,Groceries,Silver Card,Other
+12-01-2018,Brunch Restaurant,8.0,0,Restaurants,Silver Card,Other
+12-01-2018,Amazon,13.13,0,Shopping,Platinum Card,Shopping
+12-03-2018,BP,30.03,0,Gas & Fuel,Silver Card,Other
+12-03-2018,Grocery Store,148.15,0,Groceries,Silver Card,Other
+12-03-2018,Mortgage Payment,1209.18,0,Mortgage & Rent,Checking,Other
+12-04-2018,Starbucks,3.0,0,Coffee Shops,Silver Card,Restaurants
+12-04-2018,Latin Restaurant,20.65,0,Fast Food,Platinum Card,Other
+12-04-2018,Netflix,11.76,0,Movies & DVDs,Platinum Card,Entertainment
+12-06-2018,Grocery Store,21.38,0,Groceries,Platinum Card,Other
+12-06-2018,Grocery Store,13.48,0,Groceries,Platinum Card,Other
+12-06-2018,Gas Company,40.0,0,Utilities,Checking,Other
+12-07-2018,Barbershop,30.0,0,Haircut,Platinum Card,Other
+12-07-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+12-08-2018,Grocery Store,12.64,0,Groceries,Platinum Card,Other
+12-09-2018,Spotify,10.69,0,Music,Platinum Card,Entertainment
+12-11-2018,Brunch Restaurant,10.29,0,Restaurants,Platinum Card,Other
+12-12-2018,Phone Company,89.54,0,Mobile Phone,Checking,Other
+12-13-2018,Thai Restaurant,27.0,0,Restaurants,Silver Card,Other
+12-14-2018,Grocery Store,21.39,0,Groceries,Silver Card,Other
+12-14-2018,Hardware Store,17.1,0,Home Improvement,Silver Card,Other
+12-14-2018,Power Company,60.0,0,Utilities,Checking,Other
+12-17-2018,American Tavern,63.0,0,Food & Dining,Silver Card,Other
+12-17-2018,BP,20.01,0,Gas & Fuel,Silver Card,Other
+12-17-2018,City Water Charges,35.0,0,Utilities,Checking,Other
+12-18-2018,Starbucks,3.0,0,Coffee Shops,Silver Card,Restaurants
+12-18-2018,Credit Card Payment,311.02,1,Credit Card Payment,Platinum Card,Other
+12-18-2018,Credit Card Payment,311.02,0,Credit Card Payment,Checking,Other
+12-18-2018,Fancy Restaurant,56.52,0,Restaurants,Silver Card,Other
+12-18-2018,Amazon,49.99,0,Shopping,Platinum Card,Shopping
+12-18-2018,Amazon,41.72,0,Shopping,Platinum Card,Shopping
+12-18-2018,Amazon,24.3,0,Shopping,Platinum Card,Shopping
+12-19-2018,State Farm,75.0,0,Auto Insurance,Checking,Other
+12-19-2018,Amazon,43.01,0,Shopping,Platinum Card,Shopping
+12-20-2018,Credit Card Payment,464.03,1,Credit Card Payment,Silver Card,Other
+12-20-2018,Shell,30.38,0,Gas & Fuel,Silver Card,Gas
+12-21-2018,Credit Card Payment,464.03,0,Credit Card Payment,Checking,Other
+12-21-2018,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+12-22-2018,New York Deli,21.38,0,Fast Food,Platinum Card,Other
+12-22-2018,Hardware Store,22.14,0,Home Improvement,Platinum Card,Other
+12-23-2018,Hardware Store,28.0,0,Home Improvement,Platinum Card,Other
+12-24-2018,Hardware Store,38.4,0,Home Improvement,Platinum Card,Other
+12-26-2018,Chick-Fil-A,56.07,0,Fast Food,Platinum Card,Other
+12-26-2018,Shell,32.47,0,Gas & Fuel,Platinum Card,Gas
+12-26-2018,Shell,7.48,0,Gas & Fuel,Platinum Card,Gas
+12-26-2018,Internet Service Provider,75.99,0,Internet,Checking,Other
+12-26-2018,Amazon,44.99,0,Shopping,Platinum Card,Shopping
+12-28-2018,Brewing Company,12.0,0,Alcohol & Bars,Silver Card,Other
+12-29-2018,Brewing Company,14.0,0,Alcohol & Bars,Silver Card,Other
+12-29-2018,Credit Card Payment,860.05,1,Credit Card Payment,Platinum Card,Other
+12-29-2018,Grocery Store,55.04,0,Groceries,Silver Card,Other
+01-01-2019,Amazon,13.09,0,Shopping,Platinum Card,Shopping
+01-02-2019,Credit Card Payment,499.6,0,Credit Card Payment,Checking,Other
+01-03-2019,Mortgage Payment,1100.0,0,Mortgage & Rent,Checking,Other
+01-03-2019,Amazon,42.1,0,Shopping,Platinum Card,Shopping
+01-04-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+01-05-2019,American Tavern,23.49,0,Restaurants,Platinum Card,Other
+01-08-2019,Gas Company,45.0,0,Utilities,Checking,Other
+01-09-2019,Credit Card Payment,491.45,1,Credit Card Payment,Platinum Card,Other
+01-09-2019,Credit Card Payment,491.45,0,Credit Card Payment,Checking,Other
+01-09-2019,Credit Card Payment,281.84,0,Credit Card Payment,Checking,Other
+01-09-2019,Spotify,10.69,0,Music,Platinum Card,Entertainment
+01-10-2019,Grocery Store,58.79,0,Groceries,Silver Card,Other
+01-10-2019,Barbershop,30.0,0,Haircut,Silver Card,Other
+01-10-2019,Phone Company,65.0,0,Mobile Phone,Checking,Other
+01-14-2019,Shell,28.92,0,Gas & Fuel,Silver Card,Gas
+01-15-2019,Grocery Store,6.06,0,Groceries,Silver Card,Other
+01-16-2019,City Water Charges,35.0,0,Utilities,Checking,Other
+01-16-2019,Power Company,60.0,0,Utilities,Checking,Other
+01-18-2019,State Farm,75.0,0,Auto Insurance,Checking,Other
+01-18-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+01-21-2019,Credit Card Payment,277.99,1,Credit Card Payment,Silver Card,Other
+01-22-2019,Credit Card Payment,277.99,0,Credit Card Payment,Checking,Other
+01-24-2019,Grocery Store,21.06,0,Groceries,Silver Card,Other
+01-24-2019,Amazon,11.7,0,Shopping,Platinum Card,Shopping
+01-24-2019,Amazon,4.21,0,Shopping,Platinum Card,Shopping
+01-25-2019,Internet Service Provider,75.0,0,Internet,Checking,Other
+01-31-2019,Credit Card Payment,1900.0,0,Credit Card Payment,Checking,Other
+01-31-2019,Shell,31.32,0,Gas & Fuel,Silver Card,Gas
+02-01-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+02-01-2019,Roadside Diner,9.47,0,Restaurants,Silver Card,Other
+02-01-2019,Amazon,13.09,0,Shopping,Platinum Card,Shopping
+02-04-2019,Hardware Store,86.97,0,Home Improvement,Silver Card,Other
+02-04-2019,Netflix,11.76,0,Television,Platinum Card,Entertainment
+02-05-2019,Mortgage Payment,1100.0,0,Mortgage & Rent,Checking,Other
+02-07-2019,Gas Company,65.0,0,Utilities,Checking,Other
+02-08-2019,Starbucks,3.0,0,Coffee Shops,Platinum Card,Restaurants
+02-08-2019,Thai Restaurant,27.47,0,Restaurants,Platinum Card,Other
+02-09-2019,Spotify,10.69,0,Music,Platinum Card,Entertainment
+02-11-2019,Starbucks,3.0,0,Coffee Shops,Platinum Card,Restaurants
+02-11-2019,Credit Card Payment,133.95,0,Credit Card Payment,Checking,Other
+02-11-2019,BP,24.01,0,Gas & Fuel,Platinum Card,Other
+02-12-2019,Grocery Store,30.54,0,Groceries,Platinum Card,Other
+02-12-2019,Phone Company,65.0,0,Mobile Phone,Checking,Other
+02-13-2019,Grocery Store,8.21,0,Groceries,Platinum Card,Other
+02-15-2019,Credit Card Payment,207.47,1,Credit Card Payment,Platinum Card,Other
+02-15-2019,Credit Card Payment,207.47,0,Credit Card Payment,Checking,Other
+02-15-2019,Grocery Store,4.59,0,Groceries,Platinum Card,Other
+02-15-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+02-15-2019,Power Company,60.0,0,Utilities,Checking,Other
+02-16-2019,Brewing Company,8.0,0,Alcohol & Bars,Platinum Card,Other
+02-16-2019,American Tavern,32.75,0,Restaurants,Platinum Card,Other
+02-16-2019,Amazon,37.45,0,Shopping,Platinum Card,Shopping
+02-19-2019,Credit Card Payment,574.84,0,Credit Card Payment,Checking,Other
+02-19-2019,City Water Charges,35.0,0,Utilities,Checking,Other
+02-20-2019,State Farm,75.0,0,Auto Insurance,Checking,Other
+02-20-2019,Credit Card Payment,292.54,1,Credit Card Payment,Silver Card,Other
+02-20-2019,Barbershop,30.0,0,Haircut,Platinum Card,Other
+02-21-2019,Credit Card Payment,292.54,0,Credit Card Payment,Checking,Other
+02-21-2019,Grocery Store,46.96,0,Groceries,Silver Card,Other
+02-25-2019,BP,33.8,0,Gas & Fuel,Silver Card,Other
+02-25-2019,Internet Service Provider,75.0,0,Internet,Checking,Other
+02-27-2019,Roadside Diner,25.77,0,Restaurants,Silver Card,Other
+02-28-2019,Grocery Store,32.07,0,Groceries,Silver Card,Other
+03-01-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+03-01-2019,Amazon,13.09,0,Shopping,Platinum Card,Shopping
+03-04-2019,Grocery Store,92.04,0,Groceries,Silver Card,Other
+03-04-2019,Mortgage Payment,1100.0,0,Mortgage & Rent,Checking,Other
+03-04-2019,Netflix,11.76,0,Television,Platinum Card,Entertainment
+03-05-2019,Fancy Restaurant,7.0,0,Restaurants,Silver Card,Other
+03-06-2019,Credit Card Payment,491.86,0,Credit Card Payment,Checking,Other
+03-08-2019,BP,34.08,0,Gas & Fuel,Platinum Card,Other
+03-08-2019,Amazon,27.17,0,Shopping,Platinum Card,Shopping
+03-08-2019,Gas Company,49.0,0,Utilities,Checking,Other
+03-09-2019,Spotify,10.69,0,Music,Platinum Card,Entertainment
+03-12-2019,Phone Company,65.0,0,Mobile Phone,Checking,Other
+03-12-2019,Bakery Place,3.02,0,Restaurants,Platinum Card,Other
+03-13-2019,Credit Card Payment,532.86,1,Credit Card Payment,Platinum Card,Other
+03-13-2019,Credit Card Payment,301.79,1,Credit Card Payment,Silver Card,Other
+03-14-2019,Credit Card Payment,305.27,0,Credit Card Payment,Checking,Other
+03-14-2019,Credit Card Payment,301.79,0,Credit Card Payment,Checking,Other
+03-14-2019,Brunch Restaurant,8.0,0,Restaurants,Platinum Card,Other
+03-15-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+03-15-2019,Power Company,60.0,0,Utilities,Checking,Other
+03-18-2019,Best Buy,320.99,0,Electronics & Software,Platinum Card,Electronics
+03-18-2019,Grocery Store,16.23,0,Groceries,Platinum Card,Other
+03-19-2019,Amazon,13.84,0,Shopping,Platinum Card,Shopping
+03-19-2019,City Water Charges,35.0,0,Utilities,Checking,Other
+03-20-2019,State Farm,75.0,0,Auto Insurance,Checking,Other
+03-22-2019,BP,37.51,0,Gas & Fuel,Platinum Card,Other
+03-23-2019,Starbucks,5.2,0,Coffee Shops,Platinum Card,Restaurants
+03-25-2019,Internet Service Provider,75.0,0,Internet,Checking,Other
+03-26-2019,Amazon,16.04,0,Shopping,Platinum Card,Shopping
+03-27-2019,Brewing Company,49.63,0,Alcohol & Bars,Platinum Card,Other
+03-27-2019,Grocery Store,4.46,0,Groceries,Platinum Card,Other
+03-29-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+03-30-2019,Starbucks,12.84,0,Coffee Shops,Platinum Card,Restaurants
+03-31-2019,Credit Card Payment,957.6,1,Credit Card Payment,Platinum Card,Other
+04-01-2019,Credit Card Payment,1552.65,0,Credit Card Payment,Checking,Other
+04-01-2019,Credit Card Payment,600.51,1,Credit Card Payment,Platinum Card,Other
+04-01-2019,Amazon,13.09,0,Shopping,Platinum Card,Shopping
+04-02-2019,Mortgage Payment,1100.0,0,Mortgage & Rent,Checking,Other
+04-04-2019,Grocery Store,5.64,0,Groceries,Platinum Card,Other
+04-04-2019,Amazon,35.9,0,Shopping,Platinum Card,Shopping
+04-04-2019,Netflix,11.76,0,Television,Platinum Card,Entertainment
+04-06-2019,Amazon,27.54,0,Shopping,Platinum Card,Shopping
+04-08-2019,Gas Company,30.0,0,Utilities,Checking,Other
+04-09-2019,Credit Card Payment,436.75,0,Credit Card Payment,Checking,Other
+04-09-2019,Grocery Store,10.7,0,Groceries,Platinum Card,Other
+04-09-2019,Barbershop,30.0,0,Haircut,Platinum Card,Other
+04-09-2019,Spotify,10.69,0,Music,Platinum Card,Entertainment
+04-10-2019,Phone Company,65.0,0,Mobile Phone,Checking,Other
+04-12-2019,Best Buy,44.93,0,Electronics & Software,Silver Card,Electronics
+04-12-2019,Grocery Store,41.34,0,Groceries,Platinum Card,Other
+04-12-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+04-13-2019,QuikTrip,38.94,0,Gas & Fuel,Platinum Card,Other
+04-13-2019,Grocery Store,16.87,0,Groceries,Platinum Card,Other
+04-13-2019,Vietnamese Restaurant,20.64,0,Restaurants,Platinum Card,Other
+04-15-2019,Power Company,60.0,0,Utilities,Checking,Other
+04-16-2019,City Water Charges,35.0,0,Utilities,Checking,Other
+04-18-2019,State Farm,75.0,0,Auto Insurance,Checking,Other
+04-18-2019,Credit Card Payment,604.32,1,Credit Card Payment,Silver Card,Other
+04-18-2019,Credit Card Payment,458.1,1,Credit Card Payment,Platinum Card,Other
+04-19-2019,Credit Card Payment,604.32,0,Credit Card Payment,Checking,Other
+04-19-2019,Grocery Store,10.89,0,Groceries,Platinum Card,Other
+04-22-2019,Brewing Company,14.4,0,Alcohol & Bars,Silver Card,Other
+04-22-2019,Greek Restaurant,64.52,0,Restaurants,Silver Card,Other
+04-23-2019,Hardware Store,29.56,0,Home Improvement,Silver Card,Other
+04-25-2019,Internet Service Provider,75.0,0,Internet,Checking,Other
+04-26-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+04-27-2019,Brewing Company,40.0,0,Alcohol & Bars,Platinum Card,Other
+04-27-2019,Credit Card Payment,268.96,1,Credit Card Payment,Silver Card,Other
+04-27-2019,American Tavern,14.74,0,Restaurants,Silver Card,Other
+04-29-2019,Credit Card Payment,268.96,0,Credit Card Payment,Checking,Other
+04-29-2019,Grocery Store,5.64,0,Groceries,Platinum Card,Other
+04-30-2019,BP,39.08,0,Gas & Fuel,Platinum Card,Other
+05-01-2019,Amazon,13.09,0,Shopping,Platinum Card,Shopping
+05-02-2019,Mortgage Payment,1100.0,0,Mortgage & Rent,Checking,Other
+05-03-2019,Credit Card Payment,758.07,0,Credit Card Payment,Checking,Other
+05-04-2019,Netflix,13.9,0,Television,Platinum Card,Entertainment
+05-06-2019,Amazon,16.94,0,Shopping,Platinum Card,Shopping
+05-07-2019,Amazon,38.56,0,Shopping,Platinum Card,Shopping
+05-09-2019,Best Buy,331.69,0,Electronics & Software,Platinum Card,Electronics
+05-09-2019,Spotify,10.69,0,Music,Platinum Card,Entertainment
+05-09-2019,Target,3.2,0,Shopping,Platinum Card,Groceries
+05-09-2019,Gas Company,30.0,0,Utilities,Checking,Other
+05-10-2019,Best Buy,21.39,0,Electronics & Software,Silver Card,Electronics
+05-10-2019,Phone Company,65.0,0,Mobile Phone,Checking,Other
+05-10-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+05-13-2019,Credit Card Payment,480.88,0,Credit Card Payment,Checking,Other
+05-13-2019,QuikTrip,35.24,0,Gas & Fuel,Silver Card,Other
+05-13-2019,Fancy Restaurant,98.19,0,Restaurants,Silver Card,Other
+05-13-2019,Greek Restaurant,23.11,0,Restaurants,Silver Card,Other
+05-14-2019,Grocery Store,2.02,0,Groceries,Silver Card,Other
+05-15-2019,Power Company,60.0,0,Utilities,Checking,Other
+05-17-2019,Credit Card Payment,575.33,1,Credit Card Payment,Platinum Card,Other
+05-17-2019,City Water Charges,35.0,0,Utilities,Checking,Other
+05-20-2019,State Farm,75.0,0,Auto Insurance,Checking,Other
+05-20-2019,Credit Card Payment,415.47,0,Credit Card Payment,Checking,Other
+05-20-2019,American Tavern,32.53,0,Restaurants,Silver Card,Other
+05-24-2019,Credit Card Payment,765.68,1,Credit Card Payment,Silver Card,Other
+05-24-2019,Hardware Store,27.96,0,Home Improvement,Platinum Card,Other
+05-24-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+05-24-2019,Brunch Restaurant,8.0,0,Restaurants,Platinum Card,Other
+05-25-2019,QuikTrip,36.76,0,Gas & Fuel,Platinum Card,Other
+05-25-2019,Hardware Store,30.99,0,Home Improvement,Platinum Card,Other
+05-27-2019,Mexican Restaurant,34.33,0,Restaurants,Platinum Card,Other
+05-28-2019,Credit Card Payment,765.68,0,Credit Card Payment,Checking,Other
+05-30-2019,Internet Service Provider,75.0,0,Internet,Checking,Other
+05-30-2019,American Tavern,34.82,0,Restaurants,Platinum Card,Other
+06-01-2019,Amazon,13.09,0,Shopping,Platinum Card,Shopping
+06-03-2019,Starbucks,2.75,0,Coffee Shops,Platinum Card,Restaurants
+06-03-2019,Credit Card Payment,260.95,1,Credit Card Payment,Platinum Card,Other
+06-03-2019,Mortgage Payment,1100.0,0,Mortgage & Rent,Checking,Other
+06-04-2019,Barbershop,30.0,0,Haircut,Platinum Card,Other
+06-04-2019,Netflix,13.9,0,Television,Platinum Card,Entertainment
+06-05-2019,Grocery Store,23.0,0,Groceries,Platinum Card,Other
+06-05-2019,Mexican Restaurant,23.24,0,Restaurants,Platinum Card,Other
+06-06-2019,Starbucks,3.75,0,Coffee Shops,Platinum Card,Restaurants
+06-06-2019,Grocery Store,5.64,0,Groceries,Platinum Card,Other
+06-07-2019,Credit Card Payment,458.56,0,Credit Card Payment,Checking,Other
+06-07-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+06-07-2019,Gas Company,30.0,0,Utilities,Checking,Other
+06-09-2019,Spotify,10.69,0,Music,Platinum Card,Entertainment
+06-12-2019,Phone Company,65.0,0,Mobile Phone,Checking,Other
+06-13-2019,Credit Card Payment,152.72,1,Credit Card Payment,Platinum Card,Other
+06-13-2019,Credit Card Payment,152.72,0,Credit Card Payment,Checking,Other
+06-14-2019,Grocery Store,10.69,0,Groceries,Silver Card,Other
+06-15-2019,BP,33.16,0,Gas & Fuel,Silver Card,Other
+06-17-2019,City Water Charges,35.0,0,Utilities,Checking,Other
+06-17-2019,Power Company,60.0,0,Utilities,Checking,Other
+06-18-2019,Brewing Company,15.0,0,Alcohol & Bars,Silver Card,Other
+06-18-2019,Shell,41.83,0,Gas & Fuel,Silver Card,Gas
+06-19-2019,State Farm,75.0,0,Auto Insurance,Checking,Other
+06-20-2019,Credit Card Payment,375.26,0,Credit Card Payment,Checking,Other
+06-20-2019,Mike's Construction Co.,9200.0,0,Home Improvement,Checking,Other
+06-20-2019,Credit Card Payment,100.68,1,Credit Card Payment,Silver Card,Other
+06-21-2019,Credit Card Payment,100.68,0,Credit Card Payment,Checking,Other
+06-21-2019,Biweekly Paycheck,2000.0,1,Paycheck,Checking,Other
+06-24-2019,Brewing Company,15.0,0,Alcohol & Bars,Silver Card,Other
+06-28-2019,BP,30.64,0,Gas & Fuel,Silver Card,Other
+06-30-2019,Internet Service Provider,75.0,0,Internet,Checking,Other
+07-01-2019,Starbucks,7.0,0,Coffee Shops,Silver Card,Restaurants
+07-01-2019,Grocery Store,99.47,0,Groceries,Silver Card,Other
+07-01-2019,Hawaiian Grill,24.97,0,Restaurants,Silver Card,Other
+07-01-2019,Thai Restaurant,24.0,0,Restaurants,Silver Card,Other
+07-01-2019,Amazon,13.09,0,Shopping,Platinum Card,Shopping
+07-02-2019,Hardware Store,229.9,0,Home Improvement,Platinum Card,Other
+07-02-2019,Mortgage Payment,1100.0,0,Mortgage & Rent,Checking,Other
+07-04-2019,Netflix,13.9,0,Television,Platinum Card,Entertainment
+07-05-2019,Brewing Company,19.0,0,Alcohol & Bars,Silver Card,Other
+07-05-2019,Biweekly Paycheck,2250.0,1,Paycheck,Checking,Other
+07-06-2019,Credit Card Payment,220.08,1,Credit Card Payment,Silver Card,Other
+07-06-2019,Grocery Store,92.98,0,Groceries,Platinum Card,Other
+07-06-2019,Greek Restaurant,23.26,0,Restaurants,Platinum Card,Other
+07-07-2019,Hardware Store,103.14,0,Home Improvement,Platinum Card,Other
+07-08-2019,Credit Card Payment,305.28,0,Credit Card Payment,Checking,Other
+07-08-2019,Credit Card Payment,220.08,0,Credit Card Payment,Checking,Other
+07-09-2019,Credit Card Payment,549.72,1,Credit Card Payment,Platinum Card,Other
+07-09-2019,Spotify,10.69,0,Music,Platinum Card,Entertainment
+07-10-2019,Phone Company,65.0,0,Mobile Phone,Checking,Other
+07-10-2019,Gas Company,30.0,0,Utilities,Checking,Other
+07-15-2019,Grocery Store,87.14,0,Groceries,Silver Card,Other
+07-16-2019,Amazon,89.99,0,Shopping,Platinum Card,Shopping
+07-16-2019,Power Company,60.0,0,Utilities,Checking,Other
+07-17-2019,City Water Charges,35.0,0,Utilities,Checking,Other
+07-18-2019,State Farm,75.0,0,Auto Insurance,Checking,Other
+07-18-2019,Credit Card Payment,814.5,0,Credit Card Payment,Checking,Other
+07-18-2019,BP,36.42,0,Gas & Fuel,Silver Card,Other
+07-18-2019,Grocery Store,29.83,0,Groceries,Platinum Card,Other
+07-18-2019,Brunch Restaurant,8.82,0,Restaurants,Platinum Card,Other
+07-19-2019,Credit Card Payment,115.52,1,Credit Card Payment,Platinum Card,Other
+07-19-2019,Biweekly Paycheck,2250.0,1,Paycheck,Checking,Other
+07-19-2019,Mexican Restaurant,28.0,0,Restaurants,Platinum Card,Other
+07-22-2019,Credit Card Payment,257.08,1,Credit Card Payment,Silver Card,Other
+07-22-2019,Thai Restaurant,26.67,0,Restaurants,Silver Card,Other
+07-23-2019,Credit Card Payment,257.08,0,Credit Card Payment,Checking,Other
+07-24-2019,Starbucks,2.5,0,Coffee Shops,Silver Card,Restaurants
+07-27-2019,Barbershop,30.0,0,Haircut,Silver Card,Other
+07-28-2019,Hardware Store,44.31,0,Home Improvement,Platinum Card,Other
+07-29-2019,Grocery Store,5.35,0,Groceries,Platinum Card,Other
+07-29-2019,Fancy Restaurant,44.92,0,Restaurants,Silver Card,Other
+07-30-2019,Grocery Store,15.77,0,Groceries,Platinum Card,Other
+07-30-2019,Internet Service Provider,75.0,0,Internet,Checking,Other
+08-01-2019,Amazon,13.09,0,Shopping,Platinum Card,Shopping
+08-02-2019,Mortgage Payment,1100.0,0,Mortgage & Rent,Checking,Other
+08-02-2019,Biweekly Paycheck,2250.0,1,Paycheck,Checking,Other
+08-03-2019,BP,36.36,0,Gas & Fuel,Platinum Card,Other
+08-03-2019,Grocery Store,3.96,0,Groceries,Platinum Card,Other
+08-03-2019,American Tavern,23.47,0,Restaurants,Platinum Card,Other
+08-04-2019,Netflix,13.9,0,Television,Platinum Card,Entertainment
+08-05-2019,Brewing Company,18.0,0,Alcohol & Bars,Silver Card,Other
+08-05-2019,Credit Card Payment,349.28,1,Credit Card Payment,Platinum Card,Other
+08-05-2019,Credit Card Payment,117.65,1,Credit Card Payment,Silver Card,Other
+08-06-2019,Credit Card Payment,521.17,0,Credit Card Payment,Checking,Other
+08-06-2019,Credit Card Payment,117.65,0,Credit Card Payment,Checking,Other
+08-06-2019,Hardware Store,125.0,0,Home Improvement,Checking,Other
+08-08-2019,Grocery Store,11.72,0,Groceries,Silver Card,Other
+08-09-2019,Spotify,10.69,0,Music,Platinum Card,Entertainment
+08-09-2019,Gas Company,30.0,0,Utilities,Checking,Other
+08-12-2019,Phone Company,65.0,0,Mobile Phone,Checking,Other
+08-12-2019,Thai Restaurant,26.67,0,Restaurants,Silver Card,Other
+08-14-2019,Starbucks,2.75,0,Coffee Shops,Platinum Card,Restaurants
+08-15-2019,Credit Card Payment,335.2,0,Credit Card Payment,Checking,Other
+08-15-2019,Power Company,60.0,0,Utilities,Checking,Other
+08-16-2019,Biweekly Paycheck,2250.0,1,Paycheck,Checking,Other
+08-16-2019,City Water Charges,35.0,0,Utilities,Checking,Other
+08-17-2019,Credit Card Payment,87.17,1,Credit Card Payment,Platinum Card,Other
+08-17-2019,Grocery Store,33.15,0,Groceries,Platinum Card,Other
+08-17-2019,Barbershop,19.0,0,Haircut,Platinum Card,Other
+08-17-2019,American Tavern,3.5,0,Restaurants,Platinum Card,Other
+08-19-2019,Credit Card Payment,1248.95,0,Credit Card Payment,Checking,Other
+08-20-2019,State Farm,75.0,0,Auto Insurance,Checking,Other
+08-20-2019,Starbucks,2.75,0,Coffee Shops,Platinum Card,Restaurants
+08-21-2019,Shell,34.69,0,Gas & Fuel,Platinum Card,Gas
+08-23-2019,Starbucks,2.75,0,Coffee Shops,Platinum Card,Restaurants
+08-25-2019,Brunch Restaurant,39.43,0,Restaurants,Platinum Card,Other
+08-26-2019,Hardware Store,66.75,0,Home Improvement,Silver Card,Other
+08-29-2019,Starbucks,3.0,0,Coffee Shops,Platinum Card,Restaurants
+08-30-2019,Starbucks,2.75,0,Coffee Shops,Platinum Card,Restaurants
+08-30-2019,Internet Service Provider,75.0,0,Internet,Checking,Other
+08-30-2019,Biweekly Paycheck,2250.0,1,Paycheck,Checking,Other
+08-31-2019,Hardware Store,68.04,0,Home Improvement,Platinum Card,Other
+08-31-2019,BBQ Restaurant,41.78,0,Restaurants,Silver Card,Other
+09-01-2019,Amazon,13.09,0,Shopping,Platinum Card,Shopping
+09-03-2019,Mortgage Payment,1100.0,0,Mortgage & Rent,Checking,Other
+09-03-2019,Fancy Restaurant,41.24,0,Restaurants,Silver Card,Other
+09-04-2019,Netflix,13.9,0,Television,Platinum Card,Entertainment
+09-05-2019,Starbucks,3.75,0,Coffee Shops,Platinum Card,Restaurants
+09-06-2019,Credit Card Payment,1390.37,1,Credit Card Payment,Platinum Card,Other
+09-06-2019,Credit Card Payment,1390.37,0,Credit Card Payment,Checking,Other
+09-06-2019,Credit Card Payment,502.75,0,Credit Card Payment,Checking,Other
+09-07-2019,Brewing Company,12.87,0,Alcohol & Bars,Platinum Card,Other
+09-08-2019,Brewing Company,19.3,0,Alcohol & Bars,Platinum Card,Other
+09-09-2019,Shell,28.77,0,Gas & Fuel,Platinum Card,Gas
+09-09-2019,Grocery Store,65.09,0,Groceries,Silver Card,Other
+09-09-2019,Hardware Store,26.25,0,Home Improvement,Silver Card,Other
+09-09-2019,Spotify,10.69,0,Music,Platinum Card,Entertainment
+09-09-2019,Gas Company,30.0,0,Utilities,Checking,Other
+09-11-2019,Credit Card Payment,360.56,1,Credit Card Payment,Silver Card,Other
+09-11-2019,Phone Company,65.0,0,Mobile Phone,Checking,Other
+09-12-2019,Credit Card Payment,360.56,0,Credit Card Payment,Checking,Other
+09-13-2019,Starbucks,2.75,0,Coffee Shops,Platinum Card,Restaurants
+09-13-2019,Biweekly Paycheck,2250.0,1,Paycheck,Checking,Other
+09-14-2019,Grocery Store,46.44,0,Groceries,Platinum Card,Other
+09-15-2019,Amazon,47.66,0,Shopping,Platinum Card,Shopping
+09-16-2019,Credit Card Payment,90.57,0,Credit Card Payment,Checking,Other
+09-16-2019,Credit Card Payment,90.57,1,Credit Card Payment,Silver Card,Other
+09-16-2019,City Water Charges,35.0,0,Utilities,Checking,Other
+09-17-2019,Credit Card Payment,186.13,1,Credit Card Payment,Platinum Card,Other
+09-17-2019,Power Company,60.0,0,Utilities,Checking,Other
+09-18-2019,State Farm,75.0,0,Auto Insurance,Checking,Other
+09-18-2019,Credit Card Payment,1606.46,0,Credit Card Payment,Checking,Other
+09-19-2019,Brewing Company,40.81,0,Alcohol & Bars,Platinum Card,Other
+09-19-2019,Starbucks,2.75,0,Coffee Shops,Platinum Card,Restaurants
+09-20-2019,Credit Card Payment,9.43,1,Credit Card Payment,Silver Card,Other
+09-22-2019,Seafood Restaurant,131.1,0,Restaurants,Platinum Card,Other
+09-23-2019,Credit Card Payment,9.43,0,Credit Card Payment,Checking,Other
+09-23-2019,Grocery Store,27.71,0,Groceries,Platinum Card,Other
+09-23-2019,Amazon,24.63,0,Shopping,Platinum Card,Shopping
+09-27-2019,Biweekly Paycheck,2250.0,1,Paycheck,Checking,Other
+09-28-2019,BP,33.46,0,Gas & Fuel,Platinum Card,Other
+09-28-2019,Sheetz,4.27,0,Gas & Fuel,Platinum Card,Other
+09-30-2019,Starbucks,1.75,0,Coffee Shops,Platinum Card,Restaurants
+09-30-2019,Internet Service Provider,75.0,0,Internet,Checking,Other
