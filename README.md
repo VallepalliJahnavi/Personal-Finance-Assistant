@@ -1,4 +1,23 @@
 # Personal-Finance-Assistant
+
+Datasets: 
+1)Transaction analysis dataset - https://www.kaggle.com/datasets/bukolafatunde/personal-finance
+Columns present in this dataset:
+Date
+Description(Ex: Amazon, Spotify, Shell..)
+Amount
+Transaction(Ex:Credit or Debit)
+Account Name(Ex: Checking, silver card..)
+
+2)Fraud Detection Analysis - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+Columns present in this dataset:
+Time
+V1...V28(PCA Dimensionality reduction
+to protect user identities and sensitive
+features)
+Amount
+Class(0-not fraudulent, 1- fraudulent)
+
 STEP 1: Set up AWS Environment
 * Created AWS account
 * Set up AWS S3 bucket (cc-finance-bucket) to store datasets
