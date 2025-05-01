@@ -1,5 +1,31 @@
 # Personal-Finance-Assistant
 
+### 📄 **Project Description:**
+
+> We developed a full-stack personal finance analytics and fraud detection system by integrating multiple AWS services with Python-based machine learning workflows.  
+> The solution processes raw transaction data to categorize expenses, generate visual spending insights, predict future spending trends, and detect potential credit card fraud.  
+> It also triggers real-time email alerts via Amazon SNS when suspicious activity is identified.
+
+### 🔧 **Key Components & Technologies Used:**
+
+- **AWS S3:** Cloud storage for raw, cleaned, and model files  
+- **AWS Glue DataBrew:** No-code data cleaning and preprocessing  
+- **Amazon Comprehend:** Entity detection from transaction descriptions (for categorization)  
+- **EC2 (Amazon Linux):** Python environment for model training, visualization, and deployment  
+- **scikit-learn:** Used for regression (spending prediction) and classification (fraud detection)  
+- **Matplotlib:** Bar charts for spending patterns  
+- **Amazon SNS:** Sends real-time email alerts on fraud detection  
+- **boto3:** Programmatic AWS access in Python
+
+### ✅ **Features:**
+
+- 📊 Categorizes transactions using NLP (Amazon Comprehend)  
+- 📈 Analyzes and visualizes spending by category  
+- 🤖 Predicts next month's spending using Linear Regression  
+- 🔍 Detects fraudulent transactions using a trained Random Forest Classifier  
+- 📩 Sends fraud alerts instantly via Amazon SNS  
+- 💡 Deployable with minimal cost using free-tier AWS resources (no SageMaker or Lambda required)
+
 Datasets: 
 1)Transaction analysis dataset - https://www.kaggle.com/datasets/bukolafatunde/personal-finance
 Columns present in this dataset:
